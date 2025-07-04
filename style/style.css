@@ -74,3 +74,16 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.home_content{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+.under{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    padding-left: 150px;
+}
